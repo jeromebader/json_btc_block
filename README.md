@@ -1,5 +1,5 @@
 
-# Python JSON Parser for BTC Block transactions
+# Python JSON Parser for transactions in BTC Block
 This Python flask app parses a Block of the BTC blockchain to analyse transactions.
 
 You can upload a json file via Flask frontend and see some key results on the result page.
